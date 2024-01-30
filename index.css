@@ -1,0 +1,12 @@
+.bg{
+    background-color: beige;
+}
+
+.container{
+    outline: 1px solid black;
+    padding: 20px;
+}
+
+h1,h2,h4{
+    margin: 16px 0;
+}

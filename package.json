@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mailslurp-client": "^15.17.5"
+  }
+}
